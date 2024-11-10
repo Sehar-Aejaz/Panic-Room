@@ -1,0 +1,14 @@
+/Users/seharaejaz/Documents/sit771_c#/Panic/bin/Debug/net8.0/Panic
+/Users/seharaejaz/Documents/sit771_c#/Panic/bin/Debug/net8.0/Panic.deps.json
+/Users/seharaejaz/Documents/sit771_c#/Panic/bin/Debug/net8.0/Panic.runtimeconfig.json
+/Users/seharaejaz/Documents/sit771_c#/Panic/bin/Debug/net8.0/Panic.dll
+/Users/seharaejaz/Documents/sit771_c#/Panic/bin/Debug/net8.0/Panic.pdb
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.AssemblyInfoInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.AssemblyInfo.cs
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.csproj.CoreCompileInputs.cache
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.dll
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/refint/Panic.dll
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.pdb
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/Panic.genruntimeconfig.cache
+/Users/seharaejaz/Documents/sit771_c#/Panic/obj/Debug/net8.0/ref/Panic.dll
